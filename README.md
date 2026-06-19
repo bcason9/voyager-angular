@@ -1,1 +1,1 @@
-# voyager-vue
+# voyager-angular
